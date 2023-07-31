@@ -7,8 +7,7 @@ Use ratings_train.csv as the training set, ratings_valid.csv as the validation s
 Your system may use information from movies.csv and tags.csv to conduct recommen-
 dations. The undisclosed test set will be used to evaluate your system.
 
-• The data file structure is available at https://files.grouplens.org/datasets/movielens/ml-
-latest-small-README.html.
+• The data file structure is available at https://files.grouplens.org/datasets/movielens/ml-latest-small-README.html
 
 • The main goal of the recommendation system is to minimize the root-mean-square
 error.
